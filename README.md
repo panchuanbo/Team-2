@@ -8,7 +8,7 @@
 | Member | Photo |
 | -------| ------|
 | Ankit  ||
-| Effie  ||
+| Effie  || ![alt text](https://media.licdn.com/dms/image/C5103AQFNo_u5JiAOGA/profile-displayphoto-shrink_200_200/0?e=1559779200&v=beta&t=aKYRzyo9p0n54yh77f2tuJEe_ZkYJOfSxE6-HxpZgAo)
 | Gordon | ![Gordon Photo](https://media.licdn.com/dms/image/C5603AQG3fknjlc74RA/profile-displayphoto-shrink_200_200/0?e=1559779200&v=beta&t=ziD1fUQQJ5KKIFUlfcRlaG6j5CrKnps4u7GqolzuyLg)|
 |Joseph |![alt text](https://0.academia-photos.com/50272982/19369122/19286444/s200_joseph_likhuva.okonda.jpg)|
 ---
