@@ -18,7 +18,7 @@
 | Ankit | | | | |
 | Effie | AI, computer vision, working with medical scans | Logical, Creative | Building apps and team task delegation | Perfectionist |
 | Gordon | AI, Front-end Dev (Web and Mobile), Design Thinking | Introvert, Conscientious | Large Site Architecture | Overambitious |
-| Joseph |Computer Vision, NLP, Backend Dev (Python + Java), Frontend Dev (Typescript)|Motivated, Logical, introverted| Efecctive Teamwork & Communication| effective communication|
+| Joseph |Computer Vision, NLP, Backend Dev (Python + Java), Frontend Dev (Typescript)|Motivated, Logical, introverted| Effective Teamwork & Communication| effective communication|
 
 ### Team Communication
 ---
