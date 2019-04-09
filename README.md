@@ -22,6 +22,10 @@
 
 ### Team Communication
 ---
+1. [Slack](https://cs194-hq.slack.com/messages/CHALRPNLB/)
+2. Emails: abaghel, enehoran, gblake, jlikhuva
+3. [Github](https://github.com/StanfordCS194/Team-2) and [Wiki](https://github.com/StanfordCS194/Team-2/wiki)
+4. [Google Drive](https://drive.google.com/drive/folders/0AOPVpQActNFPUk9PVA)
 
 ### Project Development Links
 ---
